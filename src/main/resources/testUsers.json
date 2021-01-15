@@ -2,5 +2,9 @@
   "validUser": {
     "email":"e@e.com",
     "password": "111111"
+  },
+  "invalidUser": {
+    "email":"e@e.com",
+    "password": "111119"
   }
 }
